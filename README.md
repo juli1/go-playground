@@ -17,3 +17,4 @@ Topics to be covered:
  - packaging and building an application
  - webserver with a JSON API
  - struct definition
+ - interfaces
