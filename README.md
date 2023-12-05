@@ -11,8 +11,6 @@ Topics covered:
  - [enumerations](enumerations/main.go)
  - [struct and JSON serialization](struct/main.go)
 
-
-
 Topics to be covered:
 
  - packaging and building an application
